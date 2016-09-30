@@ -1,0 +1,14 @@
+[
+  {
+    "type":"pickup",
+    "station":"station1",
+    "cart_id":"cart1",
+    "date":"1884-01-01T08:26:09Z"
+  },
+  {
+    "type":"pickup",
+    "station":"station2",
+    "cart_id":"cart6",
+    "date":"1884-01-01T08:36:09Z"
+  }
+]
